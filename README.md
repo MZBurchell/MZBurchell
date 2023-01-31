@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Zak Burchell
 - 👀 I’m interested in Machine Learning, Software Engineering, and Data Science
-- 🌱 I’m currently learning Scientific Computing with Python
+- 🌱 I’m currently learning Machine Learning with TensorFlow
 - 📫 You can contact me via my email: ppymb10@nottingham.ac.uk
 
 <!---
