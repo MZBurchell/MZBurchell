@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Zak Burchell
 - 👀 I’m interested in Machine Learning, Software Engineering, and Data Science
-- 🌱 I’m currently learning Machine Learning for Cosmological Simulation in TensorFlow
+- 🌱 I’m currently learning Machine Learning for Cosmological Simulation in TensorFlow, and data visualisation with Dash.
 - 📫 You can contact me via my email: ppymb10@nottingham.ac.uk
 
 <!---
